@@ -1,25 +1,60 @@
 
-**Project Name**
-  Hello-Microverse Project
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-**Description the project.**
-  This project incorporates Git, Github flows, Linters and Professionalism in creating repos an commits.
+# Project Name
+  Hello-Microverse
+> Description the project.
+This is a Hello Microverse Project
 
-**Built With**
+## Built With
 
-Major languages
+- Major languages 
   Javascript
-Frameworks
-  NodeJs, Html, CSS and Javascript
-Technologies used
+- Frameworks
   CSS
+- Technologies used
+  Nodejs, CSS, HTML, Javascript
 
-**👤 Author1**
+## Live Demo (if available)
 
-GitHub: https://github.com/sharon-odhiambo
-Twitter: @SharonVictor16
-LinkedIn: https://www.linkedin.com/in/sharon-odhiambo-4333a0163/
+[Live Demo Link](https://livedemo.com)
 
 
-**📝 License**
-This project is MIT licensed.
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+HTML, CSS
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/sharon-odhiambo)
+- Twitter: [@twitterhandle](https://twitter.com/SharonVictor16)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sharon-odhiambo-4333a0163/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
